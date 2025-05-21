@@ -1,12 +1,52 @@
-# React + Vite
+# 📘 Educase Frontend Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 Live Deployment  
+🚀 **Access the App:** [https://educase-frontend-popx.vercel.app/](https://popxeducase.vercel.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Overview  
+This project delivers a **clean and responsive mobile-first UI** built with **React** and **Tailwind CSS**. It features:
 
-## Expanding the ESLint configuration
+- 🏠 Home Screen  
+- 🔐 Login Page  
+- 📝 Register Page  
+- 👤 Profile Screen  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Designed for **seamless navigation**, visually centered layout, and fully optimized for **mobile view on web**.
+
+---
+
+## 🧰 Tech Stack
+
+- **React (v19):** JavaScript library for crafting dynamic UIs  
+- **Tailwind CSS (v4):** Utility-first framework for efficient styling  
+
+---
+
+## ⚙️ Getting Started Locally
+
+### 🔧 Prerequisites
+Ensure the following are installed:
+- Node.js
+- npm (Node Package Manager)
+
+---
+
+### 🛠 Installation Steps
+
+#### 1. 📂 Clone this Repository
+
+#### 2. 📦 Install Project Dependencies
+npm install
+#### 3. 💻 Start the Development Server
+npm run dev
+
+Your app should now be running locally at:
+👉 http://localhost:5173
+
+## 📄 License
+This project was developed as part of the Educase Frontend Assignment and is intended for educational and assessment purposes.
+
+## 🙌 Acknowledgements
+Thanks to the Educase team for the opportunity to demonstrate frontend development skills through this assignment.
